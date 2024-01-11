@@ -11,7 +11,7 @@
     "url" : "https://github.com/joaomilho/Enterprise-Web3.0"
   },
   "dependencies": {
-    "cli-highlight": "^2.1.4",
+    "cli-highlight": "^2.1.11",
     "colors": "^1.4.0",
     "pegjs": "^0.10.0",
     "yargs": "^15.3.1"
